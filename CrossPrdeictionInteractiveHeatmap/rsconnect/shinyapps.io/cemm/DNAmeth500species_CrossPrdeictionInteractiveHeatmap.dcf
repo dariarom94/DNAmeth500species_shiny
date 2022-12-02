@@ -1,0 +1,13 @@
+name: DNAmeth500species_CrossPrdeictionInteractiveHeatmap
+title: DNAmeth500species_CrossPrdeictionInteractiveHeatmap
+username:
+account: cemm
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7793118
+bundleId: 6581172
+url: https://cemm.shinyapps.io/DNAmeth500species_CrossPrdeictionInteractiveHeatmap/
+when: 1669970514.86297
+lastSyncTime: 1669970514.86299
+asMultiple: FALSE
+asStatic: FALSE
